@@ -22,7 +22,8 @@
   <img src="https://github.com/parinishah/Dentogram/blob/master/promo%20graphic.jpg"/>  
 </p>
 
-The following is the youtube link for the working demo of Dentogram: 
+This is the [youtube link](https://youtu.be/dzy7IYa75Mw) for the working demo of Dentogram.
+
 
 # License
 
